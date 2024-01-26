@@ -31,7 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Law and Policy
+  - Law and PolicyXXXXXXXX
 
 # Education to show in About widget
 education:
