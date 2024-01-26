@@ -42,7 +42,7 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: research interests
+  - block: skills
     content:
       title: Research Interests
       text: 'xxxx'
