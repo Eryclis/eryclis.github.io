@@ -45,7 +45,7 @@ sections:
   - block: research interests
     content:
       title: Research Interests
-      text: ''
+      text: 'xxxx'
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
