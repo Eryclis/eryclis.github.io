@@ -40,7 +40,7 @@ education:
       institution: University of Illinois at Urbana-Champaign
       year: 2023 - current
     - course: BSc in Law
-      institution: Federal University of Pernambuco (BR)
+      institution: Federal University of Pernambuco (Brazil)
       year: 2018
 
 
@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:ersilva2@illinois.edu'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=KelL4-4AAAAJ&hl=en
@@ -65,11 +65,14 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: linkedin-in
+    icon_pack: fab
+    link: https://www.linkedin.com/in/eryclis-silva-503864195/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 
-I am currently a Ph.D. student in Information Sciences at the University of Illinois at Urbana-Champaign. I am very fortunate to be advised by Dr. Madelyn Sanfilippo and Dr. Anita Chan.
+I am currently a Ph.D. student in Information Sciences at the University of Illinois at Urbana-Champaign, advised by Dr. Madelyn Sanfilippo. Before starting my doctoral program, I work at the Brazilian Attorney General’s Office, mainly with criminal law and human rights. That background serves as a context for my research on the intersection of Law and Machine Learning, making me curious about fairness in ML models, Legal NLP, and AI Governance.  
 {style="text-align: justify;"}
