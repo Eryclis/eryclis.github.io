@@ -67,10 +67,10 @@ sections:
         - title: Research Assistant
           company:  Governance Lab on Sociotechnical Systems (GLOSS)
           company_url: 'https://publish.illinois.edu/gloss-lab/'
-          company_logo: org-gc
-          location: Brazil
+          company_logo: org-mpf
+          location: Champaign, IL
           date_start: '2020-01-01'
-          date_end: '2023-08-01'
+          date_end: ''
           #description: |2-
             #  Responsibilities include:
 
@@ -80,7 +80,7 @@ sections:
         - title: Legal Clerk
           company: Attorney General’s Office
           company_url: 'https://www.mpf.mp.br/'
-          company_logo: content/mpf.jpg
+          company_logo: MPF
           location: Brazil
           date_start: '2020-01-01'
           date_end: '2023-08-01'
