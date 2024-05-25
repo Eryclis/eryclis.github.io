@@ -69,7 +69,7 @@ sections:
           company_url: 'https://publish.illinois.edu/gloss-lab/'
           company_logo: illinois
           location: Champaign, IL
-          date_start: '2020-01-01'
+          date_start: '2020-08-01'
           date_end: ''
           #description: |2-
             #  Responsibilities include:
