@@ -67,7 +67,7 @@ sections:
         - title: Research Assistant
           company:  Governance Lab on Sociotechnical Systems (GLOSS)
           company_url: 'https://publish.illinois.edu/gloss-lab/'
-          company_logo: org-mpf
+          company_logo: mpf.jpg
           location: Champaign, IL
           date_start: '2020-01-01'
           date_end: ''
