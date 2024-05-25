@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills
     content:
       title: Research Interests
       text: 'xxxx'
@@ -130,12 +131,13 @@ sections:
   
 
   - block: collection
+    id: Publications
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      #text: |-
+       #  {{% callout note %}}
+       # Quickly discover relevant content by [filtering publications](./publication/).
+       # {{% /callout %}}
       filters:
         folders:
           - publication
