@@ -80,7 +80,7 @@ sections:
         - title: Legal Clerk
           company: Attorney General’s Office
           company_url: 'https://www.mpf.mp.br/'
-          company_logo: 'mpf.jpg'
+          company_logo: content/mpf.jpg
           location: Brazil
           date_start: '2020-01-01'
           date_end: '2023-08-01'
