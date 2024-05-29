@@ -46,7 +46,9 @@ sections:
     id: skills
     content:
       title: Research Interests
-      text: 'xxxx'
+      text: 'One of my primary areas of work is the analysis of legal and political documents through advanced NLP techniques, where I strive to create tools that automate the interpretation of legal texts, improving the efficiency and accessibility of legal information. Recently, I have also developed a keen interest in information retrieval within the legal domain, aiming to enhance the way legal professionals and researchers access and utilize vast amounts of legal data effectively.
+      Additionally, I am deeply interested in the copyright challenges that arise with the advent of generative AI. My research investigates the legal and ethical implications of AI-generated content, aiming to find a balance between technological innovation and intellectual property protection. By exploring these frontiers, my goal is to contribute to effective AI governance that promotes transparency, accountability, and fairness in the development and application of machine learning technologies within the legal context.
+      '
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:

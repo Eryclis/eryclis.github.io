@@ -74,5 +74,5 @@ highlight_name: true
 ---
 
 
-I am currently a Ph.D. student in Information Sciences at the University of Illinois at Urbana-Champaign, advised by [Dr. Madelyn Sanfilippo](https://madelynsanfilippo.com/). Before starting my doctoral program, I work at the Brazilian Attorney General’s Office. That legal background serves as a context for my research on the intersection of Law and Machine Learning, making me curious about fairness in ML models, Legal NLP, and AI Governance.  
+I am currently a Ph.D. student in Information Sciences at the [University of Illinois at Urbana-Champaign](https://ischool.illinois.edu/), advised by [Dr. Madelyn Sanfilippo](https://madelynsanfilippo.com/). Before transitioning into the tech field and starting my doctoral program, I work at the Brazilian Attorney General’s Office. That legal background serves as a context for my research on the intersection of Law and Machine Learning, making me curious about fairness in ML models, Legal NLP, and AI Governance.  
 {style="text-align: justify;"}
