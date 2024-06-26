@@ -1,7 +1,7 @@
 ---
 title: "Cybercrime and fake news: an analysis of victims in cyberspace (*in Portuguese*)"
 authors:
-- admin
+- Eryclis Rodrigues Bezerra Silva
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
