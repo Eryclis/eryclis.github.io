@@ -21,6 +21,10 @@ publication: "*: Victims'
 rights: reflections and perspectives (pp. 295-318). Higher School of the Attorney General’s Office, Brazil*"
 publication_short: ""
 
+tags:
+- Source Themes
+featured: false
+
 # links:
 # - name: ""
 #   url: ""
