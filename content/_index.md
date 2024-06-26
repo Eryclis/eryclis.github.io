@@ -67,12 +67,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Developer - Intern
+          company: Princeton Research Computing
+          company_url: 'https://researchcomputing.princeton.edu/'
+          company_logo: princeton
+          location: Princeton, NJ
+          date_start: '2024-05-01'
+          date_end: '2024-08-03'
+
         - title: Research Assistant
           company:  Governance Lab on Sociotechnical Systems (GLOSS)
           company_url: 'https://publish.illinois.edu/gloss-lab/'
           company_logo: illinois
           location: Champaign, IL
-          date_start: '2020-08-01'
+          date_start: '2023-08-01'
           date_end: ''
           #description: |2-
             #  Responsibilities include:
@@ -149,7 +157,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: Citation
 
   
   
